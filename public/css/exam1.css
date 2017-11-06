@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+#white {
+    background-color: white;
+    position: absolute;
+    width: 455px;
+    height: 575px;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+    margin-top: 3%;
+    z-index: -4;
+}
+
+#red {
+    background-color: red;
+    position: absolute;
+    width: 160px;
+    height: 300px;
+    margin-left: 5%;
+    margin-top: 10%;
+    z-index: -3;
+}
+
+#blue {
+    background-color: blue;
+    position: absolute;
+    width: 250px;
+    height: 140px;
+    margin-left: 50%;
+    margin-top: 45%;
+    z-index: -2;
+}
+
+#green {
+    background-color: rgb(42, 188, 39);
+    position: absolute;
+    width: 160px;
+    height: 260px;
+    margin-left: 65%;
+    margin-top: 40%;
+    border-style: solid;
+    border-width: 4px;
+    z-index: -1;
+}
+
+p {
+    font-family: ;
+    text-align: center;
+    font-size: 30px;
+}
